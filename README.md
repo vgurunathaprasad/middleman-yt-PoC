@@ -13,3 +13,10 @@ TODOs
 - [ ] (Image upload)
 - [ ] (Image Comression)
 - [ ] (Index between actual uploaded image and compresed image)
+
+
+## TechStack
+- Python
+- NodeJS
+- React/Angular
+- AWS
